@@ -21,6 +21,6 @@ The main objective is to perform credit risk classification using Python and Sup
 2. Run the file 'credit_risk_classification.ipynb' for data analysis and visualization.
    
 
-#References
-#worked with TA Erin Willis
+## References
+* worked with TA Erin Willis
 
